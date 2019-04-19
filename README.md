@@ -14,10 +14,10 @@ Users should be able to:
 * Foundations of HTML
 * Foundations of CSS
 * Foundations of Javascript
-  -Defining variables with `const` and `let`
-  -Accessing the DOM using methods of the `document` object
-  -Declaring functions and attaching them to DOM objects as event listeners
-  -Writing nested loops and using loop variables
+  - Defining variables with `const` and `let`
+  - Accessing the DOM using methods of the `document` object
+  - Declaring functions and attaching them to DOM objects as event listeners
+  - Writing nested loops and using loop variables
 
 ## Instructions
 * Download or Clone the Repository
