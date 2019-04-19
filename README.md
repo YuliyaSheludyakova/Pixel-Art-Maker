@@ -1,6 +1,5 @@
 # Pixel Art Maker
-This project was developed through the Udacity Intro to Programming Nanodegree Program.
-Pixel Art Maker is a single-page web app that allows users to draw pixel art on a customizable canvas.
+Pixel Art Maker is a single-page web app that allows users to draw pixel art on a customizable canvas. This project was developed through the Udacity Intro to Programming Nanodegree Program.
 
 You can access the live project [here](https://yuliyasheludyakova.github.io/Pixel-Art-Maker/).
 
