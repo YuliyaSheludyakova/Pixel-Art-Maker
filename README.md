@@ -22,6 +22,7 @@ Users should be able to:
 ## Instructions
 * Download or Clone the Repository
 * Open index.html in your browser
+* OR access the live project [here](https://yuliyasheludyakova.github.io/Pixel-Art-Maker/)
 * Select the desired height, width and color to make a grid
 * Click on individual grid pixels to fill the selected color
 * To change the grid, resubmit with desired inputs
